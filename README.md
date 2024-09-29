@@ -26,4 +26,4 @@ Routing: React Router
 
 ## Deployment
 
-Live link : 
+Live link : https://medify-rosy-six.vercel.app/
